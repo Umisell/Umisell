@@ -20,11 +20,11 @@
 
 ## ✨ Identity
 
-> Aesthetic meets blockchain.  
-> Creativity meets decentralization.
+> Aesthetic meets blockchain  
+> Creativity meets decentralization
 
 **Umisell** is a Web3 persona focused on building, experimenting,  
-and growing within the crypto ecosystem with a unique pink aesthetic identity.
+and growing within the crypto ecosystem
 
 ---
 
@@ -40,7 +40,7 @@ and growing within the crypto ecosystem with a unique pink aesthetic identity.
 ## 🚀 Vision
 
 To become part of the next generation of creators  
-who are not just users of Web3 — but builders of it.
+who are not just users of Web3 — but builders of it
 
 ---
 

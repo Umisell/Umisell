@@ -18,7 +18,7 @@
 
 ---
 
-## ✨ Identity
+##  Identity
 
 > Aesthetic meets blockchain  
 > Creativity meets decentralization
@@ -28,7 +28,7 @@ and growing within the crypto ecosystem
 
 ---
 
-## 💻 What I Do
+##  What I Do
 
 - 🔗 Explore Web3 & blockchain ecosystems  
 - 🧪 Build experimental projects  
@@ -37,14 +37,14 @@ and growing within the crypto ecosystem
 
 ---
 
-## 🚀 Vision
+##  Vision
 
 To become part of the next generation of creators  
 who are not just users of Web3 — but builders of it
 
 ---
 
-## 🧱 Journey
+##  Journey
 
 ```txt
 2020  → Entered crypto space
